@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: url("../images/what-the-hex-dark.png");
+
+    color: lightgray;
+    font-family: 'Mukta Malar', sans-serif;
+
+}
+
+img.animated-gif {
+    border-radius: 50%;
+    width: 120px;
+    height: auto;
+}
